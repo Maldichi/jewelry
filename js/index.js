@@ -1,5 +1,4 @@
 // server.js
-// Для начала установим зависимости.
 const http = require('http');
 const routing = require('./routing');
 
